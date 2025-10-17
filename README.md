@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Baney Brew Logo](https://via.placeholder.com/200x200?text=Baney+Brew)
+![Baney Brew Logo](https://i.imgur.com/l6aeYBb.png)
 
 **Discover, rate, and share your favorite craft beers**
 
