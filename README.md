@@ -13,7 +13,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-1.28+-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Azure](https://img.shields.io/badge/Azure-AKS-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
-[Website](https://baneybrew.com) • [API Documentation](https://api.baneybrew.com/docs) • [Request API Access](#-api-access)
+[Website](https://baneybrew.com) • [API Documentation](https://developers.baneybrew.com/docs) • [Request API Access](#-api-access)
 
 </div>
 
