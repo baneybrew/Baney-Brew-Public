@@ -139,7 +139,7 @@ Our comprehensive API documentation includes:
 - **Rate Limits**: Understand your usage quotas
 - **Webhooks**: Set up real-time event notifications
 
-👉 **[View API Documentation](https://api.baneybrew.com/docs)**
+👉 **[View API Documentation](https://developers.baneybrew.com/docs)**
 
 ### Quick Start Example
 
@@ -239,9 +239,9 @@ Production Cluster:
 
 ## 📚 Resources
 
-- **[Technical Blog](https://blog.baneybrew.com)** - Deep dives into our architecture
+- **[Technical Blog](https://engineering.baneybrew.com)** - Deep dives into our architecture
 - **[API Status](https://status.baneybrew.com)** - Real-time uptime monitoring
-- **[Developer Discord](https://discord.gg/baneybrew)** - Join our community
+- **[Developer Discord](https://discord.gg/kZxsKRXywK)** - Join our community
 - **[GitHub Discussions](https://github.com/baneybrew/discussions)** - Ask questions
 
 ---
